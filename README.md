@@ -14,7 +14,7 @@ All contact information is displayed on the page if you must reach me.
 * [License](#license)
 * [Documentation](#documentation)
 
-- Link to live application: https://techbloghwv3.herokuapp.com/
+- Link to live application: https://mattcross01.github.io/Updated-Portfolio-Page-2/
 
 
 ## Credits
