@@ -2,7 +2,7 @@ Welcome to my 2nd updated version of my personal portfolio!
 I have added more SCSS with newly added projects, resume & some skills.
 Github, LinkedIn & Resume have been updated as well.
 All contact information is displayed on the page if you must reach me.
-
+Unforunately, previous commits were lost after merging the files. The previous count was 23.
 
 ## License
 
