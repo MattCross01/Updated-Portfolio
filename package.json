@@ -1,0 +1,23 @@
+{
+  "name": "Updated_Portfolio",
+  "version": "1.0.0",
+  "description": "Welcome to my updated version of my personal portfolio!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattCross01/Updated-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattCross01/Updated-Portfolio/issues"
+  },
+  "homepage": "https://github.com/MattCross01/Updated-Portfolio#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
