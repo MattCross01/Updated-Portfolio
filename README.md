@@ -1,6 +1,8 @@
 Welcome to my 2nd updated version of my personal portfolio!
 I have added more SCSS with newly added projects, resume & some skills.
+Github, LinkedIn & Resume have been updated as well.
 All contact information is displayed on the page if you must reach me.
+
 
 ## License
 
@@ -53,5 +55,6 @@ SOFTWARE.
 ## Questions
 
   [![GitHub](https://img.shields.io/badge/My%20GitHub-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/MattCross01)
+  [![LinkedIn](https://img.shields.io/badge/My%20LinkedIn-Click%20Me!-grey?style=plastic&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/matthew-cross-604a98203/)
 
   Reach out to me at mountaindew2141@outlook.com with any questions about my portfolio
